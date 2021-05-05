@@ -1,3 +1,5 @@
 4 pillers of oops 
 
 1. Inheritance
+
+2. Polymorphism
